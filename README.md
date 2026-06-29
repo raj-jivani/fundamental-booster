@@ -36,13 +36,13 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/personal-data-collector.git
+git clone https://github.com/raj-jivani/fundamental-booster.git
 
 # 2. Navigate into the project folder
-cd personal-data-collector
+cd fundamental-booster
 
 # 3. Run the script
-python main.py
+python fundamental-booster.py
 ```
 
 ---
@@ -104,10 +104,10 @@ Goodbye!!!
 ## 📁 Project Structure
 
 ```
-personal-data-collector/
+fundamental-booster/
 │
-├── main.py        # Main script
-└── README.md      # Project documentation
+├── fundamental-booster.py    # Main script
+└── README.md                 # Project documentation
 ```
 
 ---
